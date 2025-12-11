@@ -35,8 +35,5 @@ O projeto demonstra que a extração de dados é o primeiro passo para uma tomad
 Embora os resultados atuais já ofereçam uma visão comparativa de preços, o verdadeiro valor reside na capacidade de expansão do banco de dados.
 A utilização de técnicas de Ciência de Dados sobre uma base mais ampla permitirá não apenas monitorar o presente, mas antecipar tendências de mercado, elevando a qualidade estratégica dos relatórios gerados.
 
-## Acesse o projeto
-
-* Link: https://price-intelligence-scraper-2sb5jjlpnwzoqjxqnatfus.streamlit.app/
 
 
