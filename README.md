@@ -13,9 +13,9 @@ product.
 
 * Python
 * Main Libraries
- * Selenium
- * Openpyxl
- * Regex
+  * Selenium
+  * Openpyxl
+  * Regex
 * Logic
 * Basic Excel
 * Artificial Intelligence Assistance
