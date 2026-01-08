@@ -29,6 +29,10 @@ produto.
 
 * Multi-Source: Extração simultânea e normalizada de dados de múltiplas fontes (Amazon e Magalu).
 
+## About
+
+```pip install -r requirements.txt```
+
 ## ✅ Conclusão 
 
 O projeto demonstra que a extração de dados é o primeiro passo para uma tomada de decisão assertiva.
